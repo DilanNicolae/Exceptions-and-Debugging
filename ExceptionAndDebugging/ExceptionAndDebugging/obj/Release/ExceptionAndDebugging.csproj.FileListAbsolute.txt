@@ -1,0 +1,7 @@
+D:\Courses\8. Exception handling and debugging\ExceptionAndDebugging\ExceptionAndDebugging\obj\Release\ExceptionAndDebugging.csprojAssemblyReference.cache
+D:\Courses\8. Exception handling and debugging\ExceptionAndDebugging\ExceptionAndDebugging\obj\Release\ExceptionAndDebugging.csproj.CoreCompileInputs.cache
+D:\Courses\8. Exception handling and debugging\ExceptionAndDebugging\ExceptionAndDebugging\bin\Release\ExceptionAndDebugging.exe.config
+D:\Courses\8. Exception handling and debugging\ExceptionAndDebugging\ExceptionAndDebugging\bin\Release\ExceptionAndDebugging.exe
+D:\Courses\8. Exception handling and debugging\ExceptionAndDebugging\ExceptionAndDebugging\bin\Release\ExceptionAndDebugging.pdb
+D:\Courses\8. Exception handling and debugging\ExceptionAndDebugging\ExceptionAndDebugging\obj\Release\ExceptionAndDebugging.exe
+D:\Courses\8. Exception handling and debugging\ExceptionAndDebugging\ExceptionAndDebugging\obj\Release\ExceptionAndDebugging.pdb
